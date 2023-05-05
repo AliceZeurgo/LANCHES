@@ -1,0 +1,61 @@
+body{
+    
+    background-image: url(./img/wallpaper\ fundo\ amarelo.jpg);
+position: absolute;
+width: 1527px;
+height: 1108px;
+left: 264px;
+top: -301px;
+background-repeat: no-repeat;
+
+}
+.nomeprincipal{
+    font-family: 'Lobster', cursive;
+}
+header{
+    font-family: 'Lobster', cursive;
+}
+.menu{
+    position: absolute;
+    top: 8%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    height: 40px;
+
+}
+.numero{
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 50px;
+}
+.logo{
+    width: 40px;
+    margin-left: 70px;
+    margin-top: 13px;
+}
+.linha{
+    border-color: rgb(0, 0, 0);
+    margin-top: 10px;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+.just{
+    margin-top: -43px;
+    margin-left: 10px;
+}
+.burguer{
+    position: absolute;
+    top: 0;
+    margin-left: 110px;
+}
+.logo1{
+    position: absolute;
+width: 694px;
+height: 719px;
+left: 765px;
+top: -36px;
+
+}
